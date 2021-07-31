@@ -1,29 +1,26 @@
-# EXPO
-expo v42.0
 # Customization of Bottom Tabs and Drawer Navigation in React Navigation v5
+
 # Features
-* Custom Bottom Tabs
-* Custom Header with custom content
-* Default Drawer with custom content
+
+- Custom Bottom Tabs
+- Custom Header with custom content
+- Default Drawer with custom content
 
 ## How it looks
 
 It works both on iOS and Android!
 
-|BottomtabNavigator|DrawerwithCustomContent|
-|---------|--------------|
-|![](https://gfycat.com/marvelousindeliblehen)|![](https://firebasestorage.googleapis.com/v0/b/eitox-app.appspot.com/o/2.mp4?alt=media&token=247ead98-c6a6-4596-832a-959ecb0f3906)|
-
-
-
-## Installation and usage
+| BottomtabNavigator                            | DrawerwithCustomContent                                                                                                             |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ![Bottom Tabs](./screenshots/bottom.jpg) | ![Drawer](./screenshots/drawer.jpg) |
 
 ### Install
 
 ```bash
-$ git clone https://github.com/ahmaddmuneeb/custom-navigator.git
-$ yarn or yarn install
-$ yarn start
+git clone https://github.com/ahmaddmuneeb/custom-navigator.git
+cd custom-navigator
+yarn
+yarn start
 ```
 
 # Enjoy :)
