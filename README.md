@@ -10,8 +10,8 @@
 
 It works both on iOS and Android!
 
-| BottomtabNavigator                            | DrawerwithCustomContent                                                                                                             |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Bottom Tab Navigation                    | Drawer Navigation                   |
+| ---------------------------------------- | ----------------------------------- |
 | ![Bottom Tabs](./screenshots/bottom.jpg) | ![Drawer](./screenshots/drawer.jpg) |
 
 ### Install
@@ -23,4 +23,4 @@ yarn
 yarn start
 ```
 
-# Enjoy :)
+# Happy Coding :)
