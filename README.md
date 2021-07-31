@@ -26,6 +26,4 @@ $ yarn or yarn install
 $ yarn start
 ```
 
-or 
-
 # Enjoy :)
